@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ErrorHandling", "ErrorHandling\", "{F5EAAC66-2920-4B3D-8323-F427606BD082}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ErrorHandling"
+		Debug.AspNetCompiler.PhysicalPath = "ErrorHandling\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ErrorHandling\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ErrorHandling"
+		Release.AspNetCompiler.PhysicalPath = "ErrorHandling\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ErrorHandling\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53259"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EAAC66-2920-4B3D-8323-F427606BD082}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F5EAAC66-2920-4B3D-8323-F427606BD082}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
